@@ -50,6 +50,6 @@ DATA SCIENCE / DATA ANALYSES / BUSINESSE INTELLIGENCE
     <img align="center" alt="google_analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
     <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><br><br>
 </div>
-![Snake animation](https://github.com/RuanMarques91/RuanMarques91/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RuanMarques91/RuanMarques91/blob/output/github-contribution-grid-snake.svg )
    
 </div>
