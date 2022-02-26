@@ -1,3 +1,5 @@
+<div align="center">
+
 ### OLÁ! EU SOU O RUAN 👨🏻 E SOU APAIXONADO POR TECNOLOGIA 💻❤  
 <br>
 
@@ -28,7 +30,6 @@
 
 
 ### TECNOLOGIAS 
-<br>
 
 - FRONT-END
 <div style="display: inline_block">
@@ -50,3 +51,5 @@
     <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 <br/>
+
+</div>
