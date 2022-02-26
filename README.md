@@ -52,6 +52,6 @@ DATA SCIENCE / DATA ANALYSES / BUSINESSE INTELLIGENCE
 </div>
 <br/>
 
-    ![Snake animation](https://github.com/RuanMarques91/RuanMarques91/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/RuanMarques91/RuanMarques91/blob/output/github-contribution-grid-snake.gif)
     
 </div>
