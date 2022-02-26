@@ -51,7 +51,5 @@ DATA SCIENCE / DATA ANALYSES / BUSINESSE INTELLIGENCE
     <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 <br/>
-
-    ![snake gif](https://github.com/ruanmarques91/ruanmarques91/blob/output/github-contribution-grid-snake.gif)
-    ![snake gif](https://github.com/ruanmarques91/ruanmarques91/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/RuanMarques91/RuanMarques91/blob/output/github-contribution-grid-snake.svg)
 </div>
