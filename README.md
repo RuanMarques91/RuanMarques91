@@ -1,7 +1,6 @@
 <div align="center">
 
 ### OLÁ! EU SOU O RUAN 👨🏻 E SOU APAIXONADO POR TECNOLOGIA 💻❤  
-<br>
 
 📊 Data Science / Data Analyses / Business Intelligence
 <br>
